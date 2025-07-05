@@ -1,26 +1,22 @@
-## Hello, World! I'm Andrew, the Dev
-- 💻 Software Engineer 
-- ☕ Studying Java
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=drewgdev&bg_color=00000000&text_color=ffffff" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drewgdev&layout=compact&langs_count=8&card_width=320&bg_color=00000000&text_color=ffffff" />
-</a>
+## Andrew Souza
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Drew-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Drew-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Drew-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Drew-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Drew-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+👨‍💻 I'm a brazilian software engineering student and content creator. I really like developing softwares.
 
-##
+🎥 I publish my tech content at my [Instagram](https://www.instagram.com/andrewsouzz/)
+and [TikTok](https://www.tiktok.com/@andreew.dev).
 
-<div> 
-  <a href="https://instagram.com/andrewsouzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:andrewsouzanegocios@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andrew-souza-br/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<p>🔠 <a href="https://cert.efset.org/2DfVjC">C1 Advanced English Level</a></p>
+
+[![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/matheusaudibert?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/matheusaudibert?tab=followers)
+[![STARS](https://custom-icon-badges.demolab.com/github/stars/matheusaudibert?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/matheusaudibert?tab=repositories&sort=stargazers)
+
+#### Technologies and tools
+
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,git,github,mysql)](https://skillicons.dev)
+
+#### Socials
+
+[![LINKEDIN](https://img.shields.io/badge/Andrew%20Souza-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-souza-br/)
+[![INSTAGRAM](https://img.shields.io/badge/andrewsouzz-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andrewsouzz/)
+[![GMAIL](https://img.shields.io/badge/andrewsouzanegocios@gmail.com-000000?style=flat&logo=Gmail&logoColor=white)](mailto:andrewsouzanegocios@gmail.com)
+[![DISCORD](https://img.shields.io/badge/dreeew-000000?style=flat&logo=discord&logoColor=white)](https://discord.com/users/766787965505765436)
