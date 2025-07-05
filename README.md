@@ -7,8 +7,8 @@ and [TikTok](https://www.tiktok.com/@andreew.dev).
 
 <p>🔠 <a href="https://cert.efset.org/2DfVjC">C1 Advanced English Level</a></p>
 
-[![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/matheusaudibert?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/matheusaudibert?tab=followers)
-[![STARS](https://custom-icon-badges.demolab.com/github/stars/matheusaudibert?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/matheusaudibert?tab=repositories&sort=stargazers)
+[![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/drewgdev?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/drewgdev?tab=followers)
+[![STARS](https://custom-icon-badges.demolab.com/github/stars/drewgdev?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/drewgdev?tab=repositories&sort=stargazers)
 
 #### Technologies and tools
 
