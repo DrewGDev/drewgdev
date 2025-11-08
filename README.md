@@ -2,9 +2,6 @@
 
 👨‍💻 I'm a brazilian software engineering student and content creator. I really like developing softwares.
 
-🎥 I publish my tech content at my [Instagram](https://www.instagram.com/andrewsouzz/)
-and [TikTok](https://www.tiktok.com/@andreew.dev).
-
 <p>🔠 <a href="https://cert.efset.org/2DfVjC">C1 Advanced English Level</a></p>
 
 [![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/drewgdev?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/drewgdev?tab=followers)
